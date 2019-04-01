@@ -1,0 +1,11 @@
+.minecraft/.mixin.out
+.minecraft/crash-reports
+.minecraft/data
+.minecraft/journeymap
+.minecraft/liteconfig
+.minecraft/logs
+.minecraft/saves
+.minecraft/screenshots
+.minecraft/server-resource-packs
+.minecraft/snapshots-server
+.minecraft/texturepacks
