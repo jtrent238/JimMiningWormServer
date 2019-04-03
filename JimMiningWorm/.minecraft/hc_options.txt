@@ -1,1 +1,0 @@
-{"CustomData":"{}","Authority":"null","renderSpecial":false,"overrideCape":true,"skinType":0,"Theme":"Vanilla"}
